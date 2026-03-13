@@ -1,0 +1,47 @@
+mca@mca07-C:~/sabina/networklab$ chmod +x evenodd.sh
+mca@mca07-C:~/sabina/networklab$ ./evenodd.sh
+ is Even
+mca@mca07-C:~/sabina/networklab$ chmod +x evenodd.sh
+mca@mca07-C:~/sabina/networklab$ ./evenodd.sh
+Enter a number:
+4
+4 is Even
+mca@mca07-C:~/sabina/networklab$ chmod +x largest.sh
+chmod: cannot access 'largest.sh': No such file or directory
+mca@mca07-C:~/sabina/networklab$ chmod +x largest.sh
+mca@mca07-C:~/sabina/networklab$ ./largest.sh
+Enter three numbers:
+4 7 2
+Largest number is: 7
+mca@mca07-C:~/sabina/networklab$ ^C
+mca@mca07-C:~/sabina/networklab$ chmod +x leapyear.sh
+chmod: cannot access 'leapyear.sh': No such file or directory
+mca@mca07-C:~/sabina/networklab$ chmod +x leapyear.sh
+mca@mca07-C:~/sabina/networklab$ ./leapyear.sh
+Enter a year: 2005
+2005 is not a leap year
+mca@mca07-C:~/sabina/networklab$ chmod +x oddeven.sh
+mca@mca07-C:~/sabina/networklab$ ./oddeven.sh
+Enter a number: 4
+4 is Even
+mca@mca07-C:~/sabina/networklab$ chmod +x largestno.sh
+mca@mca07-C:~/sabina/networklab$ ./largestno.sh
+Enter first number: 2
+Enter second number: 8
+Enter third number: 9
+9 is the largest number
+mca@mca07-C:~/sabina/networklab$ chmod +x naturalno.sh
+mca@mca07-C:~/sabina/networklab$ ./naturalno.sh
+Enter n: 4
+Sum of first 4 natural numbers is 10
+mca@mca07-C:~/sabina/networklab$ chmod +x factorial.sh
+mca@mca07-C:~/sabina/networklab$ ./factorial.sh
+Enter a number: 5
+Factorial of 5 is 120
+mca@mca07-C:~/sabina/networklab$ chmod +x fibonocci.sh
+mca@mca07-C:~/sabina/networklab$ ./ fibonocci.sh
+bash: ./: Is a directory
+mca@mca07-C:~/sabina/networklab$ ./fibonocci.sh
+Enter number of terms: 7
+Fibonacci Series:
+0 1 1 2 mca@mca07-C:~/sabina/networklab$ 
