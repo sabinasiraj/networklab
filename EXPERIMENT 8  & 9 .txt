@@ -1,0 +1,15 @@
+EXPERIMENT 8
+mca@mca07-C:~/sabina/networklab$ chmod +x evenodd.sh
+mca@mca07-C:~/sabina/networklab$ ./evenodd.sh
+Enter a number:
+4
+4 is Even
+
+EXPERIMENT 9
+
+mca@mca07-C:~/sabina/networklab$ chmod +x largest.sh
+mca@mca07-C:~/sabina/networklab$ ./largest.sh
+Enter three numbers:
+4 7 2
+Largest number is: 7
+
